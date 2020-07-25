@@ -1,0 +1,15 @@
+Dock
+
+In ubuntu store install "Plank"
+then add to startup apps
+
+To costumize run:
+plank --preferences
+
+
+Tweaks
+
+Applications: Qogir-dark
+Cursor: Qogir-cursors
+Icons: Papirus
+Shell: Qogir-dark
